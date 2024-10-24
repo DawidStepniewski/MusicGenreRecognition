@@ -55,6 +55,14 @@ The study successfully demonstrated a significant influence of song length on th
 
 ![Zrzut ekranu 2024-10-23 221601](https://github.com/user-attachments/assets/575315ed-67fd-458d-b59b-f477bb77529a)
 
+## References
+[T. Shaikh, A.Jadhav (2022) Music Genre Classification Using Neural Network](https://www.researchgate.net/publication/360417353_Music_Genre_Classification_Using_Neural_Network)  
+[A. ELbir, N. Aydin (2020) Music genre classification and music recommendation by using deep learning](https://www.researchgate.net/publication/339678441_Music_Genre_Classification_and_Music_Recommendation_by_Using_Deep_Learning)  
+[Mehta et al. (2021)](https://www.researchgate.net/publication/351379331_Music_Genre_Classification_using_Transfer_Learning_on_log-based_MEL_Spectrogram)  
+[Ndou et al. (2021)](https://www.researchgate.net/publication/351595695_Music_Genre_Classification_A_Review_of_Deep-Learning_and_Traditional_Machine-Learning_Approaches)  
+[Li et al. (2021)](https://link.springer.com/article/10.1007/s11042-020-10465-9)  
+[G. Tzanetakis, P. Cook (2002)](https://www.researchgate.net/publication/3333877_Musical_Genre_Classification_of_Audio_Signals)  
+
 ## License
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the application as per the terms of the license.
 
