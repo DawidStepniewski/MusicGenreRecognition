@@ -18,7 +18,7 @@ The project includes several Jupyter notebooks, each addressing a specific aspec
 - [**`nn_models_results.ipynb`**](nn_models_results.ipynb): Contains the results and visualizations generated from the neural network models
   
 ## Data
-All data utilized in this project is stored in the [Data](Data/) directory. It includes the original [GTZAN dataset](Data/Original%20GTZAN%20data/) as well as custom-generated [spectrograms](Data/Spectrograms), which distinguish between standard, Mel and MFCC spectrograms. Additionally, the following compressed zip files for each data split are available for download:
+All data utilized in this project is stored in the [Data](Data/) directory. It includes the original [GTZAN dataset](Data/GTZAN/) as well as custom-generated [spectrograms](Data/Spectrograms), which distinguish between standard, Mel and MFCC spectrograms. Additionally, the following compressed zip files for each data split are available for download:
 - [**`spectrograms_1s.zip`**](https://drive.google.com/file/d/1vxjNcUdFdhW1p7wTddkkSll-HxP8K-7W/view?usp=sharing)
 - [**`spectrograms_3s.zip`**](https://drive.google.com/file/d/1YxlklfsPRNBh-n-lTQm2Q8A0YWZdnNt9/view?usp=drive_link)
 - [**`spectrograms_5s.zip`**](https://drive.google.com/file/d/1OwveDXfZGhnc36ecxEDpujncuTEH2mX7/view?usp=drive_link)
