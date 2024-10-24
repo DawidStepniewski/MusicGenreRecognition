@@ -1,0 +1,7 @@
+Models/Model_1/Model_1_best_model_original_mel.h5 filter=lfs diff=lfs merge=lfs -text
+Models/Model_1/Model_1_best_model_split_1s.h5 filter=lfs diff=lfs merge=lfs -text
+Models/Model_1/Model_1_best_model_split_3s.h5 filter=lfs diff=lfs merge=lfs -text
+Models/Model_1/Model_1_best_model_split_5s.h5 filter=lfs diff=lfs merge=lfs -text
+Models/Model_1/Model_1_best_model_split_10s.h5 filter=lfs diff=lfs merge=lfs -text
+Models/Model_1/Model_1_best_model_split_20s.h5 filter=lfs diff=lfs merge=lfs -text
+
