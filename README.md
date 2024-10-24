@@ -9,6 +9,7 @@ The repository contains source code and data related to a master's thesis that i
 - [Models architecture](#models-architecture)
 - [Cross-validation](#cross-validation)
 - [Results](#results)
+- [References](#references)
   
 ## Code
 The project includes several Jupyter notebooks, each addressing a specific aspect of the implementation:
