@@ -1,4 +1,4 @@
-# Music Genre Recognition - A study to examine the effect of song length on the quality of classification into a musical genre
+# Music Genre Recognition - A research conducted to examine the effect of song length on the quality of classification into a musical genre
 
 The repository contains source code and data related to a master's thesis that investigated the effect of the length of audio segment lengths on the quality of music genre classification using deep neural networks. The study compared two sound representations: the Mel spectrograms and MFCC coefficients, and the CNN and ResNet50 classification models. Experimental results showed that Mel spectrograms and audio segment lengths of 5-10 seconds provide the best results for GTZAN dataset, especially for the ResNet50 model. The research has applications in music recommendation systems and automatic song tagging.
 
@@ -15,7 +15,7 @@ The project includes several Jupyter notebooks, each addressing a specific aspec
 - [**`standard_models_classification.ipynb`**](standard_models_classification.ipynb): Implements a supervised learning approach to train and classify audio tracks using CSV files from both the GTZAN and FMA datasets, also includes feature extraction techniques and  the construction of basic neural networks
 - [**`track_segmentation.ipynb`**](track_segmentation.ipynb): Provides tools for track splitting and directory-level operations to efficiently manage the dataset
 - [**`nn_models_training.ipynb`**](nn_models_training.ipynb): Covers the creation and training processes for the neural network models
-- [**`nn_models_result.ipynb`**](nn_models_result.ipynb): Contains the results and visualizations generated from the neural network models
+- [**`nn_models_results.ipynb`**](nn_models_results.ipynb): Contains the results and visualizations generated from the neural network models
   
 ## Data
 All data utilized in this project is stored in the [Data](Data/) directory. It includes the original [GTZAN dataset](Data/Original%20GTZAN%20data/) as well as custom-generated [spectrograms](Data/Spectrograms), which distinguish between standard, Mel and MFCC spectrograms. Additionally, the following compressed zip files for each data split are available for download:
