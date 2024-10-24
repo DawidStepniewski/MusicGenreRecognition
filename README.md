@@ -12,7 +12,7 @@ The repository contains source code and data related to a master's thesis that i
   
 ## Code
 The project includes several Jupyter notebooks, each addressing a specific aspect of the implementation:
-- [**`standard_models_classification.ipynb`**](standard_models_classification.ipynb): Implements a supervised learning approach to training and classifying tracks using CSV files
+- [**`standard_models_classification.ipynb`**](standard_models_classification.ipynb): Implements a supervised learning approach to train and classify audio tracks using CSV files from both the GTZAN and FMA datasets, also includes feature extraction techniques and  the construction of basic neural networks
 - [**`track_segmentation.ipynb`**](track_segmentation.ipynb): Provides tools for track splitting and directory-level operations to efficiently manage the dataset
 - [**`nn_models_training.ipynb`**](nn_models_training.ipynb): Covers the creation and training processes for the neural network models
 - [**`nn_models_result.ipynb`**](nn_models_result.ipynb): Contains the results and visualizations generated from the neural network models
