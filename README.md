@@ -3,12 +3,12 @@
 The repository contains source code and data related to a master's thesis that investigated the effect of the length of audio segment lengths on the quality of music genre classification using deep neural networks. The study compared two sound representations: the Mel spectrograms and MFCC coefficients, and the CNN and ResNet50 classification models. Experimental results showed that Mel spectrograms and audio segment lengths of 5-10 seconds provide the best results for GTZAN dataset, especially for the ResNet50 model. The research has applications in music recommendation systems and automatic song tagging.
 
 ## Table of contents
-- [Code](Code)
-- [Data](Data)
-- [Project Structure](Project%20Structure)
-- [Models architecture](Model%20architecture)
-- [Cross-validation](Cross-validation)
-- [Results](Results)
+- [Code](#code)
+- [Data](#data)
+- [Project Structure](#project-structure)
+- [Models architecture](#models-architecture)
+- [Cross-validation](#cross-validation)
+- [Results](#results)
   
 ## Code
 The project includes several Jupyter notebooks, each addressing a specific aspect of the implementation:
